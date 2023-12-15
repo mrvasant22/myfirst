@@ -1,2 +1,2 @@
 # display the output
-print("work is worship")
+print("the world is beatifull")
